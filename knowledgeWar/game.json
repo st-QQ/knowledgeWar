@@ -1,0 +1,5 @@
+{
+  "deviceOrientation": "portrait",
+  "useES6": true,
+  "renderer": "canvas"
+}
